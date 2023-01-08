@@ -22,7 +22,7 @@ Run `npm i` in the console at the root of the directories in order to download t
 
 Once the proper packages have been installed and mysql information has been entered. Create the database by running `SOURCE schema.sql` in your mysql After that, invoke the application by using the following command in the main root of the folder: `npm start`
 
-[Demo on how to use the application]()
+[Demo on how to use the application](https://drive.google.com/file/d/1ebspH4Ij3GnPeIGc7LFyeySHCXduq3gg/view)
 
 
 ## Questions
